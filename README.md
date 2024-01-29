@@ -1,5 +1,6 @@
 # Genome-Frequency
-This python script takes in a DNA sequence cosisting of the coding region and analyzes it for the codons and prints the frequency of all of the provided sequences.
+This was done for a class final project for BIOL-130.
+This python script takes in a DNA sequence cosisting of the coding region and analyzes it for the codons and prints the frequency of all of the provided sequences. 
 
 `analyze_total_codon_frequency` function:
 - Takes a list of protein coding DNA sequences as input.
